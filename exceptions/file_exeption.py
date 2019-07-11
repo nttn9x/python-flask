@@ -1,0 +1,3 @@
+
+class WrongExtension(ValueError):
+    pass
