@@ -4,25 +4,14 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-pylint = "*"
-autopep8 = "*"
 
 [packages]
-pdfminer-six = "*"
 flask = "*"
 flask-restplus = "*"
 pymongo = "*"
-opencv-python = "*"
-chardet = "*"
-pdf2image = "*"
-pytesseract = "*"
-google-cloud-vision = "*"
-pywin32 = "*"
-cheroot = "*"
-apscheduler = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.7.4"
 
 [pipenv]
 allow_prereleases = true
