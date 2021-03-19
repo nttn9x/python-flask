@@ -60,7 +60,7 @@ pdf2image==1.5.1
 pdfminer.six==20181108
 pefile==2018.8.8
 pep8==1.7.1
-Pillow==5.4.1
+Pillow==8.1.1
 pipenv==2018.11.26
 protobuf==3.7.1
 pyasn1==0.4.5
