@@ -81,7 +81,7 @@ python-pptx==0.6.5
 pytz==2019.1
 PyWavelets==1.0.2
 pywin32-ctypes==0.2.0
-PyYAML==5.1
+PyYAML==5.4
 requests==2.21.0
 requests-toolbelt==0.7.0
 rsa==4.0
