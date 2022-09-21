@@ -76,7 +76,7 @@ Pyrebase==3.0.27
 pyrsistent==0.14.11
 pytesseract==0.2.6
 python-dateutil==2.8.0
-python-jwt==2.0.1
+python-jwt==3.3.4
 python-pptx==0.6.5
 pytz==2019.1
 PyWavelets==1.0.2
