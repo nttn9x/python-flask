@@ -62,7 +62,7 @@ pefile==2018.8.8
 pep8==1.7.1
 Pillow==5.4.1
 pipenv==2018.11.26
-protobuf==3.7.1
+protobuf==3.18.3
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
 pycodestyle==2.5.0
